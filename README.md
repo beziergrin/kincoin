@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _s
 ===
 
@@ -40,3 +41,7 @@ Then, update the stylesheet header in style.css and the links in footer.php with
 Now you're ready to go! The next step is easy to say but harder to do: make an awesome WordPress theme. :)
 
 Good luck!
+=======
+kincoin
+=======
+>>>>>>> 254a6d02f26bcfb3dedf7576e2ca3a5966ffeaa4
