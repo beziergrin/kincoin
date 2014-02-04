@@ -2,4 +2,4 @@ kincoin
 =======
 
 
-KinCoin
+kincoin
