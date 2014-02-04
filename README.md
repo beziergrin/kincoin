@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 FooCoin (FOO)
 ===========
 
@@ -5,3 +6,6 @@ FooCoin (FOO)
 
 
 Scrypt Hashcash PoW Template
+=======
+Kincoin
+>>>>>>> 812b314b57dec093b63a0b610e00ff5821dd466f
