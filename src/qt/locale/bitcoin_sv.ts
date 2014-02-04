@@ -1079,8 +1079,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="105"/>
-        <source>BTC</source>
-        <translation>BTC</translation>
+        <source>KIN</source>
+        <translation>KIN</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="121"/>
@@ -1285,8 +1285,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="113"/>
-        <source>123.456 BTC</source>
-        <translation>123,456 BTC</translation>
+        <source>123.456 KIN</source>
+        <translation>123,456 KIN</translation>
     </message>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="144"/>

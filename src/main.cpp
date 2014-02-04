@@ -828,13 +828,13 @@ uint256 static GetOrphanRoot(const CBlock* pblock)
 
 int64 static GetBlockValue(int nHeight, int64 nFees)
 {
-    int64 nSubsidy = 1 * COIN;
+    int64 nSubsidy = 8 * COIN;
 
     return nSubsidy + nFees;
 }
 
 static const int64 nTargetTimespan = 1 * 24 * 60 * 60; // KinCoin: 1 days
-static const int64 nTargetSpacing = 120; // KinCoin: 2 minute blocks
+static const int64 nTargetSpacing = 360; // KinCoin: 6 minute blocks
 static const int64 nInterval = nTargetTimespan / nTargetSpacing;
 
 // Thanks: Balthazar for suggesting the following fix
